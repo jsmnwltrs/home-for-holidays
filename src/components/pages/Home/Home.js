@@ -27,7 +27,7 @@ class Home extends React.Component {
           </div>
           <div className="card border-dark" id="holidays" onClick={this.changeView}>
             <div className="card-body text-center">
-              <h4 className="card-title"><i class="fas fa-snowman fa-5x"></i></h4>
+              <h4 className="card-title"><i class="fas fa-skating fa-5x"></i></h4>
               <h6 className="card-subtitle mb-2 text-muted">Holidays</h6>
               <p className="card-text">Your Holiday Events</p>
             </div>
